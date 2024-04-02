@@ -32,4 +32,4 @@ Contributions to the development of the Database Data Processing Service Layer s
 4. Push changes to your fork: `git push origin feature/new-feature`.
 5. Open a pull request.
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE).
